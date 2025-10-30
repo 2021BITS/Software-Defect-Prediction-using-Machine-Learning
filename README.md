@@ -1,0 +1,2 @@
+# Software-Defect-Prediction-using-Machine-Learning
+redicting software defects effectively is key to maintaining high software quality, since it allows detection of problematic modules before testing begins. This work proposes a five-step framework to tackle common shortcomings in defect prediction. First, we use cleaned NASA datasets (CM1, JM1, MC2, MW1, PC1, PC3, PC4) to ensure data reliability. 
